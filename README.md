@@ -8,7 +8,7 @@
 【 [其他插件反馈区](https://github.com/Lienol/openwrt/issues) 】      
 【 [本固件编译建议区](https://github.com/hyird/openwrt-actions/issues) 】        
 【 请使用支持解压.7z的 [软件](https://cn.bandisoft.com/bandizip/) 解压本文件 】      
-【 PE中写盘出问题建议用这个 [1.2版本](https://t.me/OpenWRTcn/8) 】
+【 PE中写盘出问题建议用这个 [1.2版本](https://t.me/OpenWRTcn/8) 】      
 【 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！ 】         
 【 助理友推 [机场](https://www.mielink.cc/register?aff=qinqin) 】            
 更多其他信息可见于：[x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)      
