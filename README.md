@@ -3,7 +3,7 @@
 【 x86_64passwallOpenWrt #Lienol & #Hyird #多插件 编译 】    
 【 192.168.1.1 无初始密码 】     
 【 [升级、切换、回滚、重置](https://t.me/OpenWRTcn/48) 】      
-【 [插件预览](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/passwall/bio/1.png) 】        
+【 [插件预览(非最新截图，不定期更新，短期内容大概不变，可供你参考)](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/passwall/bio/1.png) 】        
 【 [相关说明见主频道](https://t.me/OpenWRTcn)内置顶信息 】           
 【 [passwall插件反馈区](https://github.com/xiaorouji/openwrt-passwall/issues) 】        
 【 [其他插件反馈区](https://github.com/Lienol/openwrt/issues) 】      
