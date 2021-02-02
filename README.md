@@ -11,7 +11,7 @@
 【 请使用支持解压.7z的 [软件](https://cn.bandisoft.com/bandizip/) 解压本文件 】      
 【 PE中写盘出问题建议用这个 [1.2版本](https://t.me/OpenWRTcn/8) 】      
 【 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！ 】      
-【 助理推荐[VPS](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md) 】            
+【 [助理推荐VPS](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/MyFanFan.md) 】            
 【 助理友推 [机场](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/youlian/jichang.md) 】            
 更多其他信息可见于：[x86_64 passwallOpenWrt软路由固件半官方频道](https://t.me/passwallOpenWRT233)      
 
