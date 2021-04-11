@@ -11,7 +11,7 @@
 ---------------------------------------               
 【精简版相关信息】：              
 【192.168.1.1 #无初始密码】              
-【已经整合好填好三网分流优化参数的smartdns】               
+【整合了可直接启用的smartdns及三网分流】               
 【[插件预览](https://github.com/boduoyejieyi666/whonolikeboduoyejieyi/blob/main/passwall/bio/2.png)(非最新截图，不定期更新，短期内容大概不变，可供你参考)】                
 【精简版编译建议，请在[Lienol的群](https://t.me/openwrtcs)里发送消息，相关管理员会收集上报】            
 
